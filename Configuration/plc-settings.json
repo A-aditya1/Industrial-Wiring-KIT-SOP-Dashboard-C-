@@ -1,0 +1,8 @@
+{
+  "IpAddress": "192.168.0.1",
+  "Rack": 0,
+  "Slot": 1,
+  "PollIntervalMs": 250,
+  "MaxAttempts": 3,
+  "CpuType": "S71200"
+}
